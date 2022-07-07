@@ -4,9 +4,7 @@ body{
     text-transform: capitalize;
 }
 .background-img{
-
-   background-image: url(images/donation1.jpg);
-    
+    background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 30%;
@@ -24,9 +22,7 @@ body{
     padding: 5px 10px;
     border-radius: 5px;
     font-weight: 700;
-}
-
-#flexible-donate{
+}#flexible-donate{
     padding:60px 0px;
 }
 .flex-class{
@@ -39,8 +35,6 @@ body{
     width:60%;
     margin: auto;
     text-align: center;
-    
-    
 }
 .border-line form input{
     border: none;
@@ -52,7 +46,6 @@ body{
     padding: 8px;
 }
 .link-blank{
-    
     text-decoration: none;
     background-image: linear-gradient(orange,red);
     color: white;
@@ -60,10 +53,7 @@ body{
     border-radius: 5px;
     font-weight: 700;
     text-align: center;
-    /* margin-top: 20px; */
 }
-
-
 .flexible-container h2{
     font-size: 50px;
 }
